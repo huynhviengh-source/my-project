@@ -1,0 +1,21 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# Android
+.gradle/
+local.properties
+
+# iOS
+Pods/
+DerivedData/
+
+# IDE
+.idea/
+.vscode/
+
+# Misc
+*.log
+*.tmp
